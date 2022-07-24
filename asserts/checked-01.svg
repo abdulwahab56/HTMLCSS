@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="45" height="44" viewBox="0 0 45 44">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#pattern);
+      }
+    </style>
+    <pattern id="pattern" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 453 440">
+      <image width="453" height="440" xlink:href="checked-01-image.png"/>
+    </pattern>
+  </defs>
+  <rect id="checked-01" class="cls-1" width="45" height="44"/>
+</svg>

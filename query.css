@@ -1,0 +1,499 @@
+@media screen and (max-width: 70em) {
+  .hero_text > span {
+    font-size: 40px;
+  }
+  .hero_text > h1 {
+    font-size: 80px;
+  }
+  .img_1,
+  .img_21 {
+    width: 620px;
+    height: 317px;
+  }
+  .img_34 {
+    width: 373px;
+    height: 362px;
+  }
+  .img_45 {
+    width: 520px;
+    height: 362px;
+  }
+  .img_56 {
+    width: 220px;
+    height: 362px;
+  }
+  .achievement > img {
+    width: 8.5rem;
+    height: 8.5rem;
+    top: -50px;
+    left: -94px;
+    transform: translate(157px, -2px);
+  }
+  .top {
+    margin: 30rem 20rem 5rem 20rem;
+  }
+
+  .achievement > p {
+    font-size: 2.2rem;
+    margin: 4rem auto;
+    padding: 1rem;
+  }
+}
+@media screen and (max-width: 62.5em) {
+  .text {
+    font-size: 2.2rem;
+  }
+  .collabrate {
+    margin-left: 200px;
+    margin-top: 2rem;
+    font-size: 44px;
+  }
+  .img_1,
+  .img_21 {
+    width: 500px;
+    height: 317px;
+  }
+  .img_34 {
+    width: 320px;
+    height: 362px;
+  }
+  .img_45 {
+    width: 450px;
+    height: 362px;
+  }
+  .img_56 {
+    width: 230px;
+    height: 362px;
+  }
+  .achievement > img {
+    width: 7.5rem;
+    height: 7.5rem;
+    position: absolute;
+    top: -50px;
+    left: -94px;
+    transform: translate(150px, -4px);
+  }
+
+  .achievement > p {
+    font-size: 2.8rem;
+    margin: 3rem auto;
+    padding: 0rem;
+  }
+
+  .global_text > h1 {
+    font-size: 56px;
+  }
+
+  .global_title > span {
+    font-size: 18px;
+  }
+  .icon {
+    font-size: 32px;
+  }
+  .top {
+    margin: 30rem 15rem 5rem 15rem;
+  }
+
+  .bdr_img {
+    height: 80rem;
+  }
+  .expert {
+    margin: 25rem 10rem 5rem 10rem;
+  }
+  .people_line {
+    left: 60px;
+  }
+  .left_h {
+    font-size: 56px;
+  }
+  .right_h {
+    font-size: 44px;
+  }
+}
+@media screen and (max-width: 58em) {
+  .text {
+    font-size: 1.8rem;
+  }
+  .hero_text {
+    margin-left: 150px;
+  }
+
+  .achievement > img {
+    width: 5.5rem;
+    height: 5.5rem;
+    top: -50px;
+    left: -94px;
+    transform: translate(119px, 11px);
+  }
+
+  .achievement > p {
+    font-size: 1.6rem;
+    margin: 3rem auto;
+  }
+
+  .global_text > h1 {
+    font-size: 52px;
+  }
+
+  .global_title > span {
+    font-size: 18px;
+  }
+  .icon {
+    font-size: 26px;
+  }
+  .bdr_img {
+    height: 80rem;
+  }
+  .expert {
+    margin: 25rem 5rem 5rem 5rem;
+  }
+  .people_line {
+    left: 60px;
+  }
+  .left_h {
+    font-size: 46px;
+  }
+  .right_h {
+    font-size: 44px;
+  }
+}
+@media screen and (max-width: 54em) {
+  .text {
+    font-size: 1.4rem;
+  }
+  .collabrate {
+    margin-left: 200px;
+    margin-top: 2rem;
+    font-size: 34px;
+  }
+  .img_1,
+  .img_21 {
+    width: 432px;
+    height: 317px;
+  }
+  .img_34 {
+    width: 232px;
+    height: 362px;
+  }
+  .img_45 {
+    width: 426px;
+    height: 362px;
+  }
+  .img_56 {
+    width: 205px;
+    height: 362px;
+  }
+  .achievement > img {
+    width: 5.5rem;
+    height: 5.5rem;
+    top: -50px;
+    left: -94px;
+    transform: translate(138px, 19px);
+  }
+
+  .achievement > p {
+    font-size: 2.2rem;
+    margin: 3rem auto;
+  }
+
+  .global_text > h1 {
+    font-size: 44px;
+  }
+
+  .global_title > span {
+    font-size: 14px;
+  }
+  .icon {
+    font-size: 20px;
+  }
+  .bdr_img {
+    height: 80rem;
+  }
+  .expert {
+    margin: 17rem 3rem 5rem 3rem;
+    gap: 3rem;
+  }
+  .exper_people {
+    background-color: #807fbd;
+    padding: 2rem;
+  }
+
+  .exper_people > div img {
+    width: 68px;
+    height: 68px;
+  }
+  .exper_people > div span {
+    font-size: 32px;
+  }
+  p {
+    font-size: 18px;
+    margin-top: 2rem;
+  }
+}
+@media screen and (max-width: 54rem) {
+  .hero_text > p {
+    font-size: 80px;
+  }
+  .hero_text {
+    margin-top: 25rem;
+  }
+  .description {
+    margin: 130px 15px 0 173px;
+  }
+  .text {
+    font-size: 1.8rem;
+  }
+  .line > hr {
+    left: -90px;
+  }
+  .collabrate {
+    margin-left: 150px;
+    /* font-size: 54px; */
+  }
+  .sport_imag > div img {
+    width: 364px;
+    height: 300px;
+  }
+  .lin_2 > hr {
+    top: -80px;
+    left: 90px;
+  }
+  .img_1,
+  .img_21 {
+    width: 384px;
+    height: 291px;
+  }
+  .img_34 {
+    width: 240px;
+    height: 251px;
+  }
+  .img_45 {
+    width: 333px;
+    height: 251px;
+  }
+  .img_56 {
+    width: 194px;
+    height: 251px;
+  }
+  .lin_top {
+    top: -150px;
+    left: 44px;
+  }
+  .top {
+    margin: 20rem 10rem 5rem 13rem;
+  }
+  .global_text > h1 {
+    font-size: 44px;
+    margin-bottom: 1rem;
+  }
+  .global_title > span {
+    font-size: 14px;
+    margin: 0.5rem;
+  }
+  .people_line {
+    left: 190px;
+  }
+  .laptop_img {
+    margin-top: 9rem;
+  }
+  .left_h {
+    font-size: 34px;
+  }
+  .form_cta {
+    margin-top: 1rem;
+    margin-right: 6rem;
+  }
+  .btn {
+    font-size: 16px;
+  }
+  .right_h {
+    font-size: 34px;
+  }
+  .message > input {
+    height: 150px;
+  }
+  footer {
+    font-size: 18px;
+  }
+}
+@media screen and (max-width: 25.9rem) {
+  .checkbtn {
+    display: block;
+  }
+  .nav_list {
+    flex-direction: column;
+    gap: 2.3rem;
+    z-index: 99;
+    left: -100%;
+    transition: all 0.5s;
+  }
+  ul {
+    position: fixed;
+    width: 100%;
+    height: 100vh;
+    background-color: #807fbd;
+    top: 80px;
+    left: 0;
+    text-align: center;
+  }
+  nav ul li {
+    display: block;
+  }
+  /* #check:checked ~ ul {
+    left: 0;
+  } */
+  .hero_text > p {
+    font-size: 50px;
+  }
+  .description {
+    margin: 71px 8px 0 72px;
+  }
+  .text {
+    font-size: 1.2rem;
+  }
+  .line > hr {
+    width: 5.5rem;
+    top: 13px;
+    left: -40px;
+  }
+  .collabrate {
+    margin-left: 71px;
+    font-size: 24px;
+  }
+  .sport_imag > div img {
+    width: 396px;
+    height: 250px;
+  }
+  .comp_1_2 {
+    display: grid;
+    grid-template-columns: 1fr;
+  }
+  .img_1,
+  .img_21 {
+    width: 417px;
+    height: 220px;
+  }
+  .img_34 {
+    width: 240px;
+    height: 251px;
+  }
+  .comp_3to5 {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+  }
+  .img_34 {
+    width: 193px;
+    height: 175px;
+  }
+  .img_45 {
+    width: 221px;
+    height: 175px;
+  }
+  .img_56 {
+    width: 192px;
+    height: 175px;
+  }
+  .lin_2 > hr {
+    top: -83px;
+    left: 5px;
+  }
+  .protofilo_img {
+    margin-top: 14rem;
+  }
+  .lin_top {
+    top: -162px;
+    left: -84px;
+  }
+  .rating {
+    display: flex;
+    flex-direction: column;
+    gap: 8rem;
+  }
+  .achievement > img {
+    width: 5.5rem;
+    height: 5.5rem;
+    top: -59px;
+    left: -73px;
+    transform: translate(138px, 19px);
+  }
+  .bdr_img {
+    height: 24rem;
+  }
+  .global_text {
+    position: absolute;
+    top: 60%;
+    left: 10%;
+  }
+  .global_title > span {
+    font-size: 8px;
+    margin: 0.5rem;
+  }
+  .global_text > h1 {
+    font-size: 24px;
+    margin-bottom: 1rem;
+  }
+  .people_line {
+    left: 40px;
+  }
+  .expert {
+    margin: 14rem 19rem 5rem 6rem;
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 2rem;
+  }
+  .laptop_img {
+    height: 100rem;
+    margin-top: 10rem;
+  }
+  /* .left_h > span {
+    position: absolute;
+    top: -79px;
+  }
+  .left_h {
+    font-size: 38px;
+    font-weight: 700;
+  }
+  .right_h {
+    font-size: 34px;
+    text-align: center;
+  }
+  .contact_form {
+    display: flex;
+    /* flex-direction: column-reverse; */
+  /* }
+  .input_filed {
+    display: flex;
+    flex-direction: column;
+  }  */
+  .contact_form {
+    grid-template-columns: 1fr;
+  }
+  .left_h > span {
+    top: -90px;
+    font-weight: 700;
+  }
+  .right_h {
+    font-size: 34px;
+    margin-top: -17rem;
+    text-align: center;
+  }
+
+  .input_filed {
+    grid-template-columns: 1fr;
+    gap: 1rem;
+  }
+  .cta-form input {
+    width: 70%;
+    padding: 1.2rem;
+    font-size: 1.8rem;
+    margin-top: 0rem;
+  }
+  .cta-form label {
+    display: block;
+    font-size: 1.6rem;
+    font-weight: 500;
+    margin-bottom: 1.2rem;
+    margin-top: 1rem;
+    color: #ffffff;
+  }
+}
